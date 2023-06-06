@@ -1,1 +1,1 @@
-# Priceasy
+Priceasy
